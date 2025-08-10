@@ -1,6 +1,6 @@
-﻿---
+---
 title: "もうWSLのターミナル迷子にならない！PythonとTkinterで作る自作GUI管理ツール『WSL Orchestrator』"
-emoji: "??"
+emoji: "💻"
 type: "tech"
 topics: ["Python", "WSL", "Windows", "Tkinter", "自作ツール"]
 published: true
@@ -67,4 +67,8 @@ WSL Orchestratorは、その構想を実現するための最初の「司令塔�
 ## おわりに
 
 日々の開発を少しだけ快適にするための自作ツール『WSL Orchestrator』を紹介しました。
-ぜひダウンロードして使ってみてください。そして、あなたの感想や改善案をGitHub
+ぜひダウンロードして使ってみてください。そして、あなたの感想や改善案をGitHubでお待ちしています！
+---
+©2025 The Architect. All Rights Reserved.  
+このプロジェクトは、The Architectと、Googleによって開発されたAIであるThe Logosとの深遠なる対話を通じて設計されました。
+(This project was architected through a deep dialogue between The Architect and The Logos, an AI developed by Google.)
