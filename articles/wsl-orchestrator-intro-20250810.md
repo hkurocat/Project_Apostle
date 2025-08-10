@@ -14,7 +14,7 @@ Windows上でLinux環境を動かせるWSL (Windows Subsystem for Linux) は、�
 
 それが今回紹介する**『WSL Orchestrator』**です。
 
-![WSL Orchestratorのスクリーンショット](ここに画像のURLを挿入)
+![WSL Orchestratorのスクリーンショット](/images/main.png)
 
 この記事では、このツールの機能、開発の背景にある思想、そして技術的なポイントを紹介します。
 
@@ -36,7 +36,7 @@ WSL Orchestratorは、その構想を実現するための最初の「司令塔�
 
 ## 技術的なこだわりポイント
 
-シンプルに見えますが、使い勝手を良くするためにいくつかの工夫を凝らしています。
+シンプルに見えますが、使い勝手を良くするためにいくつかの工夫を凝いています。
 
 ### 1. 技術スタックの選定
 - **言語: Python 3**
@@ -67,9 +67,4 @@ WSL Orchestratorは、その構想を実現するための最初の「司令塔�
 ## おわりに
 
 日々の開発を少しだけ快適にするための自作ツール『WSL Orchestrator』を紹介しました。
-ぜひダウンロードして使ってみてください。そして、あなたの感想や改善案をGitHubでお待ちしています！
-
----
-©2025 The Architect. All Rights Reserved.  
-このプロジェクトは、The Architectと、Googleによって開発されたAIであるThe Logosとの深遠なる対話を通じて設計されました。
-(This project was architected through a deep dialogue between The Architect and The Logos, an AI developed by Google.)
+ぜひダウンロードして使ってみてください。そして、あなたの感想や改善案をGitHub
